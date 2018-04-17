@@ -251,7 +251,15 @@ ANDROID & iOS](https://developer.paciellogroup.com/downloads/TPG_Mobile_Testing_
   - [1) Certificações em Teste de Software](https://soundcloud.com/testcastbrasil/testcast-01-certificacoes-em-teste-de-software)
   - [2) Agile Testers Conference 2017 - Brasília](https://soundcloud.com/testcastbrasil/testcast-02-agile-testers-conference-2017-brasilia)
   - [3) O mercado Teste e Qualidade de Software no Brasil e no mundo](https://soundcloud.com/testcastbrasil/testcast-03-mercado-de-teste-brasil-mundo)
-
+  - [4) Testes Em Dispositivos Móveis](https://soundcloud.com/testcastbrasil/testcast-04-testes-em-dispositivos-moveis)
+  - [5) Agile Testing (Testes Ágeis)](https://soundcloud.com/testcastbrasil/testcast-05-agile-testing)
+  - [6) Testes De Desempenho](https://soundcloud.com/testcastbrasil/testes-de-desempenho)
+  - [7) O Tester precisa saber programar?](https://soundcloud.com/testcastbrasil/testcast-07-o-tester-precisa-saber-programar)
+  - [8) Softskills](https://soundcloud.com/testcastbrasil/testcast-08-softskills)
+  - [9) Carreira em Teste e Qualidade de Software](https://soundcloud.com/testcastbrasil/testcast-09-carreira-em-teste-e-qualidade-de-software)
+  - [10) Testathon](https://soundcloud.com/testcastbrasil/testcast-10-testathon)
+  - [11) Testes & BDD](https://soundcloud.com/testcastbrasil/testcast-11-testes-bdd)
+  
 - [Testing Podcast](https://testingpodcast.com/)  
 
 - [Hipster.tech da Alura](http://hipsters.tech/)
